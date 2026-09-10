@@ -1,0 +1,121 @@
+{
+  "services": [
+    {
+      "sname": "Repair",
+      "description": "We offer both classroom and online training on niche technologies which are in high demand. All our trainers are IT professionals with rich experience.",
+      "id": "zhr4gr48D0U"
+    },
+    {
+      "sname": "Education",
+      "description": "We offer both classroom and online training on niche technologies which are in high demand. All our trainers are IT professionals with rich experience.",
+      "id": "N6rmxJoL1_Y"
+    },
+    {
+      "sname": "Contractors",
+      "description": "We offer both classroom and online training on niche technologies which are in high demand. All our trainers are IT professionals with rich experience.",
+      "id": "SFq7xuozoaQ"
+    },
+    {
+      "sname": "Healthcare",
+      "description": "We offer both classroom and online training on niche technologies which are in high demand. All our trainers are IT professionals with rich experience.",
+      "id": "UVLqlqzS7Y4"
+    },
+    {
+      "sname": "ABCD",
+      "description": "We offer both classroom and online training on niche technologies which are in high demand. All our trainers are IT professionals with rich experience.",
+      "id": "dri-sQmnzjc"
+    }
+  ],
+  "subservices": [
+    {
+      "sname": "Repair",
+      "subsname": "Laptop",
+      "description": "We offer both classroom and online training on niche technologies which are in high demand. All our trainers are IT professionals with rich experience.",
+      "id": "yn3-1_AYO-E"
+    },
+    {
+      "sname": "Repair",
+      "subsname": "TV",
+      "description": "We offer both classroom and online training on niche technologies which are in high demand. All our trainers are IT professionals with rich experience.",
+      "id": "yg0MGFP9NCU"
+    },
+    {
+      "sname": "Repair",
+      "subsname": "Washing Machine",
+      "description": "We offer both classroom and online training on niche technologies which are in high demand. All our trainers are IT professionals with rich experience.",
+      "id": "erhf3xkbJwg"
+    },
+    {
+      "sname": "Repair",
+      "subsname": "Mobile",
+      "description": "We offer both classroom and online training on niche technologies which are in high demand. All our trainers are IT professionals with rich experience.",
+      "id": "PQolSIML_PU"
+    }
+  ],
+  "serviceproviders": [
+    {
+      "sname": "Repair",
+      "subsname": "Laptop",
+      "spname": "Rajesh",
+      "bname": "Sigma Infotech",
+      "email": "rajesh@gmail.com",
+      "phone": "9133102210",
+      "address": "Madhapur",
+      "id": "HwhVjKswOSk"
+    },
+    {
+      "sname": "Repair",
+      "subsname": "Laptop",
+      "spname": "Suresh",
+      "bname": "Alpha Trainings",
+      "email": "suresh@gmail.com",
+      "phone": "8133102210",
+      "address": "Madhapur",
+      "id": "clwmX2IVdp4"
+    }
+  ],
+  "servicedata": [
+    {
+      "sname": "Repair",
+      "subsname": "Laptop",
+      "spname": "Rajesh",
+      "bname": "Sigma Infotech",
+      "cname": "Anil",
+      "email": "anil@gmail.com",
+      "phone": "7133102210",
+      "address": "Madhapur",
+      "id": "wXGxDzgdGEU"
+    },
+    {
+      "sname": "Repair",
+      "subsname": "Laptop",
+      "spname": "Rajesh",
+      "bname": "Sigma Infotech",
+      "cname": "Mahith",
+      "email": "mahith@gmail.com",
+      "phone": "9966885577",
+      "address": "Hyderabad",
+      "id": "SwukvSJoUZA"
+    }
+  ],
+  "offers": [],
+  "users": [
+    {
+      "name": "Rajesh",
+      "email": "elearninfotech6@gmail.com",
+      "password": "rajesh",
+      "phone": "8899556688",
+      "address": "Madhapur",
+      "id": "1smKbVfn65Q"
+    },
+    {
+      "name": "Anil",
+      "email": "anil@gmail.com",
+      "password": "Anil",
+      "phone": "8133102210",
+      "address": "Madhapur",
+      "id": "PdKiIUwrSck"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}

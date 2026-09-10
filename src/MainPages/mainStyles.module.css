@@ -1,0 +1,18 @@
+.nopage
+{
+    border-top:5px solid rgb(3, 112, 50);
+    text-align: center;
+    padding: 50px 0px;
+}
+
+.bread
+{
+    background-color: rgb(5, 87, 26);
+}
+
+.bread h1
+{
+    text-align: center;
+    color: #fff;
+    padding: 30px 0px;
+}
